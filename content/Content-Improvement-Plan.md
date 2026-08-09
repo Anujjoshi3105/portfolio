@@ -129,7 +129,7 @@ After changes:
 1. **LeetCode Weekly Contest 494** → **Unpublish** (remove `publish: true`), keep file for later.
 2. **Skills.md, Certifications.md, Contact.md** → create all three.
 3. **Sarah Johnson testimonial** → **Remove** the file and its reference in `index.md`.
-4. **Resume PDF** → user will provide; add `resume.pdf` to `static/` + link when available (placeholder noted).
+4. **Resume PDF** → added `content/Anuj-Joshi-Resume.pdf` (compiled from `resume/*.tex`, AI/ML Engineer rewrite), linked from `index.md` + `Contact.md`.
 
 ---
 

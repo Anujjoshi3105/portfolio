@@ -12,10 +12,11 @@ aliases:
 
 I'm always open to interesting projects, collaborations, and conversations. The best ways to reach me:
 
-- **Email:** [anujjoshi3105@gmail.com](mailto:anujjoshi3105@gmail.com)
+- **Email:** [anujjoshi.ae@gmail.com](mailto:anujjoshi.ae@gmail.com)
 - **GitHub:** [github.com/Anujjoshi3105](https://github.com/Anujjoshi3105)
 - **LinkedIn:** [linkedin.com/in/anujjoshi3105](https://www.linkedin.com/in/anujjoshi3105/)
 - **Twitter / X:** [x.com/anujjoshi3105](https://x.com/anujjoshi3105)
+- **Resume:** [Anuj-Joshi-Resume.pdf](/Anuj-Joshi-Resume.pdf)
 
 ## What I Can Help With
 

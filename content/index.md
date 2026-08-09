@@ -38,10 +38,10 @@ I work across the full stack — from **Next.js and TypeScript** frontends to **
 
 I'm an active competitive programmer, solving problems and climbing the rating ladders:
 
-- **LeetCode** — Knight (1910) · [profile](https://leetcode.com/u/anujjoshi3105/)
+- **LeetCode** — Knight (1941) · [profile](https://leetcode.com/u/anujjoshi3105/)
 - **GFG** — 4 Star (1900) · [profile](https://www.geeksforgeeks.org/user/anujjoshi3105/)
-- **CodeChef** — 2 Star (1500) · [profile](https://www.codechef.com/users/anujjoshi3105)
-- **Codeforces** — Specialist (1400) · [profile](https://codeforces.com/profile/anujjoshi3105)
+- **CodeChef** — 3 Star (1731) · [profile](https://www.codechef.com/users/anujjoshi3105)
+- **Codeforces** — Specialist (1434) · [profile](https://codeforces.com/profile/anujjoshi3105)
 - **AtCoder** — Green (900) · [profile](https://atcoder.jp/users/anujjoshi3105)
 
 My contest write-ups live in the [[blog|Blog]], including [[blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] and [[blog/atcoder-beginner-contest-430|AtCoder Beginner Contest 430]].
@@ -55,12 +55,13 @@ My contest write-ups live in the [[blog|Blog]], including [[blog/leetcode-weekly
 - **Skills** — [[skills|Browse my tech stack]] · the tools I use across projects
 - **Certifications** — [[certifications|See my certificates]] · verified credentials
 - **Blog** — [[blog/index|View all posts]] · competitive programming write-ups and contest solutions
+- **Resume** — [Download my resume](/Anuj-Joshi-Resume.pdf) · AI/ML Engineer, one page
 - **Contact** — [[contact|Get in touch]] · collaborations, questions, and conversations
 
 ## By the Numbers
 
 - **9** projects shipped · **6** roles & internships · **3** degrees/certificates
-- **8** blog posts · **1900+** GFG rating · **1910** LeetCode rating (Knight)
+- **8** blog posts · **1900+** GFG rating · **1941** LeetCode rating (Knight)
 - **100+** concurrent users supported on [[projects/ekalavya|Ekalavya]] multiplayer quizzes
 - **50+** member team led as [[experience/general-secretary-sr-dtu|General Secretary]]
 
@@ -105,9 +106,10 @@ Read more in [[testimonials/rahul-agrawal|Rahul Agrawal]].
 
 I'm always open to interesting projects, collaborations, and conversations.
 
-- Email: [anujjoshi3105@gmail.com](mailto:anujjoshi3105@gmail.com)
+- Email: [anujjoshi.ae@gmail.com](mailto:anujjoshi.ae@gmail.com)
 - GitHub: [github.com/Anujjoshi3105](https://github.com/Anujjoshi3105)
 - LinkedIn: [linkedin.com/in/anujjoshi3105](https://www.linkedin.com/in/anujjoshi3105/)
 - Twitter / X: [x.com/anujjoshi3105](https://x.com/anujjoshi3105)
+- Resume: [Anuj-Joshi-Resume.pdf](/Anuj-Joshi-Resume.pdf)
 
 See the [[contact|Contact]] page for more.
