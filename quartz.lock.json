@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "quartz-image-zoom": {
+      "source": "github:vazome/quartz-image-zoom",
+      "resolved": "https://github.com/vazome/quartz-image-zoom.git",
+      "commit": "eb516f150d95859c31c1fa5507f2fd81b35bbb15",
+      "installedAt": "2026-08-08T17:16:45.411Z"
+    },
+    "quartz-jupyter-embed": {
+      "source": "github:vazome/quartz-jupyter-embed",
+      "resolved": "https://github.com/vazome/quartz-jupyter-embed.git",
+      "commit": "e31ebbebbabbb3996d9590d8006bcf35b8169b8c",
+      "installedAt": "2026-08-08T17:17:05.178Z"
+    }
+  }
+}

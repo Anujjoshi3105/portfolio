@@ -1,0 +1,77 @@
+filters:
+  and:
+    - file.inFolder("Blog")
+    - file.ext == "md"
+formulas:
+  post_link: link(file.path, title)
+  formatted_date: if(published, date(published).format("MMM DD, YYYY"), "")
+  card_preview: if(thumbnail, if(thumbnail.startsWith("_assets/"), thumbnail, "_assets/" + thumbnail), "_assets/thumbnails/portfolio-blog.webp")
+properties:
+  title:
+    displayName: Post Title
+  formula.post_link:
+    displayName: Title
+  description:
+    displayName: Description
+  thumbnail:
+    displayName: Thumbnail
+  formula.card_preview:
+    displayName: Preview
+  published:
+    displayName: Published Date
+  formula.formatted_date:
+    displayName: Published
+  tags:
+    displayName: Tags
+  category:
+    displayName: Category
+  likes:
+    displayName: Likes
+  views:
+    displayName: Views
+  created:
+    displayName: Created At
+  updated:
+    displayName: Updated At
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.post_link
+      - tags
+      - formula.formatted_date
+      - category
+      - views
+      - likes
+    sort:
+      - property: category
+        direction: DESC
+      - property: tags
+        direction: DESC
+      - property: formula.post_link
+        direction: ASC
+    summaries:
+      views: Sum
+      likes: Sum
+  - type: cards
+    name: Cards
+    image: formula.card_preview
+    order:
+      - formula.post_link
+      - tags
+      - formula.formatted_date
+      - category
+      - views
+      - likes
+  - type: table
+    name: All Details
+    order:
+      - title
+      - description
+      - published
+      - tags
+      - category
+      - likes
+      - views
+      - created
+      - updated

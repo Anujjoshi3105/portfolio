@@ -1,0 +1,72 @@
+filters:
+  and:
+    - file.inFolder("Education")
+    - file.ext == "md"
+formulas:
+  degree_link: link(file.path, title)
+  duration: if(start, date(start).format("MMM YYYY") + " - " + if(end, date(end).format("MMM YYYY"), "Present"), "")
+properties:
+  title:
+    displayName: Degree / Certificate
+  formula.degree_link:
+    displayName: Degree / Certificate
+  institution:
+    displayName: Institution
+  type:
+    displayName: Type
+  start:
+    displayName: Start Date
+  end:
+    displayName: End Date
+  grade:
+    displayName: Grade / Score
+  location:
+    displayName: Location
+  skills:
+    displayName: Skills
+  tags:
+    displayName: Tags
+  url:
+    displayName: Website
+  certificate:
+    displayName: Certificate Link
+  description:
+    displayName: Description
+  formula.duration:
+    displayName: Duration
+  created:
+    displayName: Created At
+  updated:
+    displayName: Updated At
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.degree_link
+      - institution
+      - type
+      - formula.duration
+      - grade
+      - location
+      - skills
+      - url
+      - certificate
+      - description
+      - created
+      - updated
+  - type: table
+    name: All Details
+    order:
+      - title
+      - institution
+      - type
+      - start
+      - end
+      - grade
+      - location
+      - skills
+      - url
+      - certificate
+      - description
+      - created
+      - updated

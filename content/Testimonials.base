@@ -1,0 +1,72 @@
+filters:
+  and:
+    - file.inFolder("Testimonials")
+    - file.ext == "md"
+formulas:
+  testimonial_link: link(file.path, name)
+  avatar_preview: if(avatar, if(avatar.startsWith("_assets/"), avatar, "_assets/" + avatar), "")
+properties:
+  title:
+    displayName: Title
+  name:
+    displayName: Name
+  formula.testimonial_link:
+    displayName: Name
+  description:
+    displayName: Quote
+  company:
+    displayName: Company
+  position:
+    displayName: Position
+  date:
+    displayName: Date
+  project:
+    displayName: Project / Context
+  rating:
+    displayName: Rating
+  contact:
+    displayName: Contact
+  avatar:
+    displayName: Avatar Path
+  formula.avatar_preview:
+    displayName: Avatar
+  tags:
+    displayName: Tags
+  created:
+    displayName: Created At
+  updated:
+    displayName: Updated At
+views:
+  - type: cards
+    name: Cards
+    image: formula.avatar_preview
+    order:
+      - formula.testimonial_link
+      - position
+      - company
+      - rating
+      - project
+  - type: table
+    name: Table
+    order:
+      - formula.testimonial_link
+      - company
+      - position
+      - date
+      - project
+      - rating
+      - contact
+  - type: table
+    name: All Details
+    order:
+      - name
+      - title
+      - company
+      - position
+      - date
+      - project
+      - rating
+      - contact
+      - avatar
+      - created
+      - updated
