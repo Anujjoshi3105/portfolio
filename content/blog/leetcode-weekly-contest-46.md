@@ -152,6 +152,6 @@ public:
 
 ## Related
 
-- [[Blog/maximum-total-value-k-subarrays|Maximum Total Value From Selecting K Subarrays]] â€” an identical problem and approach.
-- [[Blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] â€” subarray value computation with monotonic stack.
-- [[Blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] â€” another contest write-up.
+- [[blog/maximum-total-value-k-subarrays|Maximum Total Value From Selecting K Subarrays]] â€” an identical problem and approach.
+- [[blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] â€” subarray value computation with monotonic stack.
+- [[blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] â€” another contest write-up.

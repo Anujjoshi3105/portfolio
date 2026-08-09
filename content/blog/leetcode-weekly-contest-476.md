@@ -244,6 +244,6 @@ public:
 
 ## Related
 
-- [[Blog/game-of-xor|Game of XOR]] — uses prefix XOR fundamentals.
-- [[Blog/leetcode-weekly-contest-144|LeetCode Weekly Contest 144]] — another weekly contest write-up.
-- [[Blog/atcoder-beginner-contest-430|AtCoder Beginner Contest 430]] — more contest solutions in C++.
+- [[blog/game-of-xor|Game of XOR]] — uses prefix XOR fundamentals.
+- [[blog/leetcode-weekly-contest-144|LeetCode Weekly Contest 144]] — another weekly contest write-up.
+- [[blog/atcoder-beginner-contest-430|AtCoder Beginner Contest 430]] — more contest solutions in C++.

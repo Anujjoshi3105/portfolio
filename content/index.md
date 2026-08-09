@@ -44,17 +44,17 @@ I'm an active competitive programmer, solving problems and climbing the rating l
 - **Codeforces** — Specialist (1400) · [profile](https://codeforces.com/profile/anujjoshi3105)
 - **AtCoder** — Green (900) · [profile](https://atcoder.jp/users/anujjoshi3105)
 
-My contest write-ups live in the [[Blog|Blog]], including [[Blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] and [[Blog/atcoder-beginner-contest-430|AtCoder Beginner Contest 430]].
+My contest write-ups live in the [[blog|Blog]], including [[blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] and [[blog/atcoder-beginner-contest-430|AtCoder Beginner Contest 430]].
 
 ## Explore My Work
 
-- **Projects** — [View all projects](/projects/) · full-stack apps, ed-tech SaaS, vision APIs, and more
-- **Experience** — [View all experience](/experience/) · my roles, internships, and leadership
-- **Education** — [View all education](/education/) · academics from B.Tech to CBSE
-- **Testimonials** — [View all testimonials](/testimonials/) · what people say about working with me
+- **Projects** — [[projects/index|View all projects]] · full-stack apps, ed-tech SaaS, vision APIs, and more
+- **Experience** — [[experience/index|View all experience]] · my roles, internships, and leadership
+- **Education** — [[education/index|View all education]] · academics from B.Tech to CBSE
+- **Testimonials** — [[testimonials/index|View all testimonials]] · what people say about working with me
 - **Skills** — [[skills|Browse my tech stack]] · the tools I use across projects
 - **Certifications** — [[certifications|See my certificates]] · verified credentials
-- **Blog** — [View all posts](/Blog/) · competitive programming write-ups and contest solutions
+- **Blog** — [[blog/index|View all posts]] · competitive programming write-ups and contest solutions
 - **Contact** — [[contact|Get in touch]] · collaborations, questions, and conversations
 
 ## By the Numbers

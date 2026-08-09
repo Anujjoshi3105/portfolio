@@ -137,6 +137,6 @@ This greedy approach works because XORs at even count cancel each other out.
 
 ## Related
 
-- [[Blog/subarrays-with-first-element-minimum|Subarrays with First Element Minimum]] — a subarray counting problem in O(N).
-- [[Blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] — subarray contribution counting with a monotonic stack.
-- [[Blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] — contest problems using prefix XOR.
+- [[blog/subarrays-with-first-element-minimum|Subarrays with First Element Minimum]] — a subarray counting problem in O(N).
+- [[blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] — subarray contribution counting with a monotonic stack.
+- [[blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] — contest problems using prefix XOR.

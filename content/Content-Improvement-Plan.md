@@ -76,7 +76,7 @@ Example pattern:
 ## Related
 - [[projects/netrai]] — built with the same FastAPI + PyTorch stack
 - [[experience/fullstack-intern-quickintell]] — where I shipped production AI
-- [[Blog/subarrays-with-first-element-minimum]] — a follow-up monotonic stack problem
+- [[blog/subarrays-with-first-element-minimum]] — a follow-up monotonic stack problem
 ```
 
 ### Phase C — Deepen thin pages (P2)

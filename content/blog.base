@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("Blog")
+    - file.inFolder("blog")
     - file.ext == "md"
 formulas:
   post_link: link(file.path, title)

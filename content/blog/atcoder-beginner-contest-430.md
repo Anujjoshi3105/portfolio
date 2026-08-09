@@ -303,5 +303,5 @@ public:
 
 ## Related
 
-- [[Blog/leetcode-weekly-contest-144|LeetCode Weekly Contest 144]] — another multi-problem contest write-up.
-- [[Blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] — more contest solutions with prefix techniques.
+- [[blog/leetcode-weekly-contest-144|LeetCode Weekly Contest 144]] — another multi-problem contest write-up.
+- [[blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] — more contest solutions with prefix techniques.

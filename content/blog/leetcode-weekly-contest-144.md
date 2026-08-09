@@ -224,6 +224,6 @@ public:
 
 ## Related
 
-- [[Blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] — another weekly contest write-up.
-- [[Blog/valid-sudoku|Valid Sudoku]] — a LeetCode problem solved with sets.
-- [[Blog/atcoder-beginner-contest-430|AtCoder Beginner Contest 430]] — more competitive programming solutions.
+- [[blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] — another weekly contest write-up.
+- [[blog/valid-sudoku|Valid Sudoku]] — a LeetCode problem solved with sets.
+- [[blog/atcoder-beginner-contest-430|AtCoder Beginner Contest 430]] — more competitive programming solutions.

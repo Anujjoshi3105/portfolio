@@ -345,6 +345,6 @@ This avoids explicitly generating subarrays.
 
 ## Related
 
-- [[Blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] â€” the same monotonic stack pattern applied to summing minimums.
-- [[Blog/game-of-xor|Game of XOR]] â€” a subarray counting problem solved in O(N).
-- [[Blog/valid-sudoku|Valid Sudoku]] â€” another array-based problem from LeetCode POTD.
+- [[blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] â€” the same monotonic stack pattern applied to summing minimums.
+- [[blog/game-of-xor|Game of XOR]] â€” a subarray counting problem solved in O(N).
+- [[blog/valid-sudoku|Valid Sudoku]] â€” another array-based problem from LeetCode POTD.

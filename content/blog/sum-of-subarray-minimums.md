@@ -334,6 +334,6 @@ Using a **monotonic stack**, we reduce the problem from O(NÂ²) to O(N)
 
 ## Related
 
-- [[Blog/subarrays-with-first-element-minimum|Subarrays with First Element Minimum]] â€” a related monotonic stack problem.
-- [[Blog/game-of-xor|Game of XOR]] â€” another subarray-based counting problem.
-- [[Blog/leetcode-weekly-contest-46|LeetCode Weekly Contest 46]] â€” selecting k subarrays with a sparse table.
+- [[blog/subarrays-with-first-element-minimum|Subarrays with First Element Minimum]] â€” a related monotonic stack problem.
+- [[blog/game-of-xor|Game of XOR]] â€” another subarray-based counting problem.
+- [[blog/leetcode-weekly-contest-46|LeetCode Weekly Contest 46]] â€” selecting k subarrays with a sparse table.

@@ -44,7 +44,7 @@ aliases:
 | AWS (Lambda, etc.) | [[experience/fullstack-intern-quickintell|Quickintell]], [[experience/software-engineer-kkr|KKR]] |
 | Docker | [[projects/netrai|NetrAI]] |
 | Git / GitHub | All projects |
-| Python / C++ / C | Competitive programming in the [[Blog|Blog]] |
+| Python / C++ / C | Competitive programming in the [[blog|Blog]] |
 
 ## Related
 

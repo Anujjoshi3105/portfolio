@@ -152,6 +152,6 @@ public:
 
 ## Related
 
-- [[Blog/leetcode-weekly-contest-46|LeetCode Weekly Contest 46]] â€” same problem with the same sparse table approach.
-- [[Blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] â€” a subarray problem using stack-based counting.
-- [[Blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] â€” more contest write-ups with prefix techniques.
+- [[blog/leetcode-weekly-contest-46|LeetCode Weekly Contest 46]] â€” same problem with the same sparse table approach.
+- [[blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] â€” a subarray problem using stack-based counting.
+- [[blog/leetcode-weekly-contest-476|LeetCode Weekly Contest 476]] â€” more contest write-ups with prefix techniques.

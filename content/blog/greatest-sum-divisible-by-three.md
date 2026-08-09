@@ -113,5 +113,5 @@ This greedy approach works because modulo arithmetic with 3 provides predictable
 
 ## Related
 
-- [[Blog/game-of-xor|Game of XOR]] — another greedy array problem from the same practice set.
-- [[Blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] — a subarray-sum problem solved with a monotonic stack.
+- [[blog/game-of-xor|Game of XOR]] — another greedy array problem from the same practice set.
+- [[blog/sum-of-subarray-minimums|Sum of Subarray Minimums]] — a subarray-sum problem solved with a monotonic stack.

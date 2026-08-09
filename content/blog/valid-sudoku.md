@@ -82,5 +82,5 @@ class Solution {
 
 ## Related
 
-- [[Blog/leetcode-weekly-contest-144|LeetCode Weekly Contest 144]] — more LeetCode solutions with arrays and trees.
-- [[Blog/game-of-xor|Game of XOR]] — another array-based problem with a clean O(N) trick.
+- [[blog/leetcode-weekly-contest-144|LeetCode Weekly Contest 144]] — more LeetCode solutions with arrays and trees.
+- [[blog/game-of-xor|Game of XOR]] — another array-based problem with a clean O(N) trick.
